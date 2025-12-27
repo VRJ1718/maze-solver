@@ -78,14 +78,14 @@ maze-solver/<br>
 ## **🎨 Theme Modes**
 
 ### **🌞 Light Mode**
-Background: White
-Walls: Black
+Background: White<br>
+Walls: Black<br>
 Solution Path: Yellow
 
 ### **🌙 Dark Mode**
 
-Background: Black
-Walls: White
+Background: Black<br>
+Walls: White<br>
 Solution Path: Green
 
 ---
@@ -95,11 +95,11 @@ Solution Path: Green
 Contributions are welcome! 🚀
 
 1. Fork the repository
-2. Create a feature branch
+2. Create a feature branch<br>
 git checkout -b feature-branch
-3. Commit your changes
+3. Commit your changes<br>
 git commit -m "Add new feature"
-4. Push to GitHub
+4. Push to GitHub<br>
 git push origin feature-branch
 5. Open a Pull Request
 
@@ -107,14 +107,14 @@ git push origin feature-branch
 
 **📜 License**
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.<br>
 See the LICENSE file for details.
 
 ---
 
 **🙌 Acknowledgments**
 
-Inspired by classic Computer Science pathfinding algorithms
+Inspired by classic Computer Science pathfinding algorithms<br>
 
 Built using Pygame for smooth visualization and interaction
 

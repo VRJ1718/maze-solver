@@ -53,7 +53,7 @@ A **Python-based interactive Maze Solver** that visually demonstrates maze gener
 
 - **Clone the repository**
 
-git clone https://github.com/VRJ1718/maze-solver.git
+git clone https://github.com/VRJ1718/maze-solver.git<br>
 cd maze-solver
 
 - **Run the application**
@@ -61,17 +61,17 @@ cd maze-solver
 python main.py
 
 - **🎮 Controls**
-Key	Action
-F	Toggle Fullscreen
-M	Toggle Light / Dark Mode
+Key	Action<br>
+F	Toggle Fullscreen<br>
+M	Toggle Light / Dark Mode<br>
 ESC	Exit Program
 
 - **📁 Project Structure**
-maze-solver/
-│
-├── main.py          # Application entry point
-├── maze.py          # Maze generation logic (DFS)
-├── maze_solver.py   # Maze solving logic (BFS)
+maze-solver/<br>
+│<br>
+├── main.py          # Application entry point<br>
+├── maze.py          # Maze generation logic (DFS)<br>
+├── maze_solver.py   # Maze solving logic (BFS)<br>
 ├── visuals.py       # Rendering & visualization
 
 ---

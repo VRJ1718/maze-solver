@@ -43,10 +43,11 @@ A **Python-based interactive Maze Solver** that visually demonstrates maze gener
 - **Python 3.7+**
 - **Pygame**
 
-Install dependency:
-```bash
-pip install pygame
+- **Install dependency:**
+- ```bash
+  pip install pygame
 
+---
 
 ## ▶️ How to Run
 
@@ -55,17 +56,17 @@ pip install pygame
 git clone https://github.com/VRJ1718/maze-solver.git
 cd maze-solver
 
-
 - **Run the application**
 
 python main.py
 
-🎮 Controls
+- **🎮 Controls**
 Key	Action
 F	Toggle Fullscreen
 M	Toggle Light / Dark Mode
 ESC	Exit Program
-📁 Project Structure
+
+- **📁 Project Structure**
 maze-solver/
 │
 ├── main.py          # Application entry point
@@ -73,57 +74,51 @@ maze-solver/
 ├── maze_solver.py   # Maze solving logic (BFS)
 ├── visuals.py       # Rendering & visualization
 
-🎨 Theme Modes
-🌞 Light Mode
+---
 
+## **🎨 Theme Modes**
+
+### **🌞 Light Mode**
 Background: White
-
 Walls: Black
-
 Solution Path: Yellow
 
-🌙 Dark Mode
+### **🌙 Dark Mode**
 
 Background: Black
-
 Walls: White
-
 Solution Path: Green
 
-🤝 Contributing
+---
+
+## **🤝 Contributing**
 
 Contributions are welcome! 🚀
 
-Fork the repository
-
-Create a feature branch
-
+1. Fork the repository
+2. Create a feature branch
 git checkout -b feature-branch
-
-
-Commit your changes
-
+3. Commit your changes
 git commit -m "Add new feature"
-
-
-Push to GitHub
-
+4. Push to GitHub
 git push origin feature-branch
+5. Open a Pull Request
 
+--- 
 
-Open a Pull Request
-
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-🙌 Acknowledgments
+---
+
+**🙌 Acknowledgments**
 
 Inspired by classic Computer Science pathfinding algorithms
 
 Built using Pygame for smooth visualization and interaction
 
-⭐ If you like this project, don’t forget to star the repository!
+**⭐ If you like this project, don’t forget to star the repository!**
 
-Happy Coding 💻✨
+**Happy Coding 💻✨**

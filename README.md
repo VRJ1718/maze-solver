@@ -43,9 +43,8 @@ A **Python-based interactive Maze Solver** that visually demonstrates maze gener
 - **Python 3.7+**
 - **Pygame**
 
-- **Install dependency:**
-- ```bash
-pip install pygame
+- **Install dependency:** <br>
+  pip install pygame
 
 ---
 

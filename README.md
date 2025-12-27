@@ -45,7 +45,7 @@ A **Python-based interactive Maze Solver** that visually demonstrates maze gener
 
 - **Install dependency:**
 - ```bash
-  pip install pygame
+pip install pygame
 
 ---
 
@@ -60,7 +60,7 @@ cd maze-solver
 
 python main.py
 
-- **🎮 Controls**
+- **🎮 Controls**<br>
 Key	Action<br>
 F	Toggle Fullscreen<br>
 M	Toggle Light / Dark Mode<br>
